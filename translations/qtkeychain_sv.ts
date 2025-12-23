@@ -1,30 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="sv_SE">
-    <extra-po-header-language>sv_SE</extra-po-header-language>
-    <extra-po-header-language_team></extra-po-header-language_team>
-    <extra-po-header-last_translator>Daniel Nylander &lt;github@danielnylander.se&gt;</extra-po-header-last_translator>
-    <extra-po-header-po_revision_date></extra-po-header-po_revision_date>
-    <extra-po-header-pot_creation_date></extra-po-header-pot_creation_date>
-    <extra-po-header-project_id_version></extra-po-header-project_id_version>
-    <extra-po-header-x_generator>Poedit 3.6</extra-po-header-x_generator>
-    <extra-po-headers>Project-Id-Version,POT-Creation-Date,PO-Revision-Date,Last-Translator,Language-Team,Language,MIME-Version,Content-Type,Content-Transfer-Encoding,Plural-Forms,X-Language,X-Qt-Contexts,X-Generator</extra-po-headers>
 <context>
     <name>KeyChainClass</name>
     <message>
-        <location filename="../TestAppExample/keychainclass.cpp" line="23"/>
         <source>Read key failed: %1</source>
-        <translation>Läsning av nyckel misslyckades: %1</translation>
+        <translation type="vanished">Läsning av nyckel misslyckades: %1</translation>
     </message>
     <message>
-        <location filename="../TestAppExample/keychainclass.cpp" line="39"/>
         <source>Write key failed: %1</source>
-        <translation>Skrivning av nyckel misslyckades: %1</translation>
+        <translation type="vanished">Skrivning av nyckel misslyckades: %1</translation>
     </message>
     <message>
-        <location filename="../TestAppExample/keychainclass.cpp" line="56"/>
         <source>Delete key failed: %1</source>
-        <translation>Borttagning av nyckel misslyckades: %1</translation>
+        <translation type="vanished">Borttagning av nyckel misslyckades: %1</translation>
     </message>
 </context>
 <context>
@@ -110,8 +99,8 @@
 <context>
     <name>QKeychain::ReadPasswordJobPrivate</name>
     <message>
-        <location filename="../qtkeychain/keychain_android.cpp" line="52"/>
         <location filename="../qtkeychain/keychain_unix.cpp" line="416"/>
+        <location filename="../qtkeychain/keychain_android.cpp" line="52"/>
         <source>Entry not found</source>
         <translation>Posten hittades inte</translation>
     </message>
